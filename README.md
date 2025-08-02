@@ -24,7 +24,6 @@ A project that reduces Text-to-Speech (TTS) inference time by up to 59% using sp
 
 - `audio_samples/` - WAV files of TTS output
 - `visuals/` - Spectrograms, waveform comparisons
-- `notebooks/` - Jupyter notebooks for testing & visualization
 - `results/` - CSVs with benchmarking data
 
 ## 🎧 Listen & Compare

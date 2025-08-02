@@ -1,0 +1,18 @@
+script1
+
+"""
+Birmingham became a beacon of innovation and invention. Walter White, a reporter in 1852, described his awe when visiting: walking from one workshop to another, he was impressed by the extraordinary mechanical contraptions and illustrious ingenuity on display. 
+Indeed, Birmingham was where steam met iron, forging not just metal but miracles of the industrial age.
+"""
+
+script2
+
+"""
+Imagine Birmingham in the early 1800s—originally a small market town, rapidly expanding into a vast, industrial metropolis, fueled by the unceasing drive of the Industrial Revolution. By 1850, the population had skyrocketed to over 200,000, largely due to rural folks moving into the city in search of work. The cityscape was dominated by towering chimneys that painted the skies a thunderous grey and massive factories that never ceased, demanding more labor and toil."""
+
+script3
+
+"""
+Now, picture this—the thick fog of industry cut by the sounds of metal being crafted into all manner of goods. 
+The cacophony of progress filled the air, and among this industrial ballet rumbled the operations of a small, seemingly inconsequential cocoa works located on Bridge Street, founded by John Cadbury in the 1820s. This establishment, though modest and ill-assorted amidst the vast industry, was on the brink of a transformative crisis by the time John’s sons, Richard and George Cadbury, stepped in during 1861.
+"""

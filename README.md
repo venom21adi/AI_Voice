@@ -11,12 +11,14 @@ A project that reduces Text-to-Speech (TTS) inference time by up to 59% using sp
 - Audio samples for perceptual analysis
 
 ## 📊 Results
-
-| Script | Version         | Gen Time (s) | Total Time (s) | Time Saved |
-|--------|------------------|--------------|----------------|------------|
-| 1      | Embedded         | 53.58        | 71.80          | ✅ 25%     |
-| 1      | Non-Embedded     | 73.57        | 95.27          |            |
-| ...    | ...              | ...          | ...            | ...        |
+| Script | Version      | Voice Gen Time (s) | Total Time (s) | Time Saved  
+| ------ | ------------ | ------------------ | -------------- | ----------  |
+| 1      | Embedded     | 53.58              | 71.80          | ✅ 25%      |
+| 1      | Non-Embedded | 73.57              | 95.27          |             |
+| 2      | Embedded     | 113.55             | 113.55         | ✅ 59%      |
+| 2      | Non-Embedded | 257.58             | 274.51         |             |
+| 3      | Embedded     | 129.85             | 129.85         | ✅ 40%      |
+| 3      | Non-Embedded | 197.67             | 216.96         |             |
 
 ## 📁 Folder Structure
 
@@ -42,4 +44,4 @@ Check out the `audio_samples/` and view visual comparisons in `visuals/`.
 MIT
 
 ---
-z
+
